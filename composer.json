@@ -1,0 +1,13 @@
+{
+    "name": "nyholm/noop",
+    "description": "A package that does nothing.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nyholm",
+            "email": "tobias.nyholm@gmail.com"
+        }
+    ],
+    "require": {}
+}
