@@ -9,5 +9,8 @@
             "email": "tobias.nyholm@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": { "Nyholm\\Noop\\": "src/" }
+    }
 }
